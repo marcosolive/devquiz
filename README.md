@@ -1,6 +1,6 @@
 # nlw5
 
-A new Flutter project.
+Projeto da Next Level Weekend 5 - Rocktseat
 
 ## Getting Started
 
